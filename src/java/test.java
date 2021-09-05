@@ -35,7 +35,3 @@ else {
 	system.out.print("it works fine on IE");
 }
 
-
-adding jenkins in this code for this jenkins code should work
-
-
